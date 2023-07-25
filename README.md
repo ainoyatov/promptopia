@@ -1,2 +1,0 @@
-# promptopia
-JS Mastery project
