@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "vocal-airline-393818"
-  }
+    "staging": "vocal-airline-393818"
+  },
+  "targets": {},
+  "etags": {}
 }
